@@ -1940,9 +1940,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -293.74730787156926,
-			"y": -9063.6107308209,
-			"z": 1.4557977333893852,
+			"x": -348.56478723450704,
+			"y": -9433.238495507958,
+			"z": 1.405121842403214,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -3463,12 +3463,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:nbqsH-kZDL2O5Ev5tPbnk",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:Jbdt7bYYiQVfnHGWxaHPS"
+				"shape:nbqsH-kZDL2O5Ev5tPbnk"
 			],
-			"hoveredShapeId": "shape:Jbdt7bYYiQVfnHGWxaHPS",
+			"hoveredShapeId": "shape:nbqsH-kZDL2O5Ev5tPbnk",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -4101,6 +4101,90 @@
 			"meta": {}
 		},
 		{
+			"x": 570.1351408583454,
+			"y": 9517.150541659146,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nbqsH-kZDL2O5Ev5tPbnk",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 435.84375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "why storage classes?"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\tDiffrent data -> Diffrent cost"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\tFrequetly use -> Fast access"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b1por63UG",
+			"typeName": "shape"
+		},
+		{
 			"x": 831.0379222192452,
 			"y": 2866.5672354435465,
 			"rotation": 0,
@@ -4285,6 +4369,43 @@
 			},
 			"parentId": "page:page",
 			"index": "b1Le6ItTV",
+			"typeName": "shape"
+		},
+		{
+			"x": 545.122517220996,
+			"y": 9437.114767760235,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1Tx7Wh9ZZILTfIi2VE-65",
+			"type": "geo",
+			"props": {
+				"w": 366.0623400700213,
+				"h": 52.030071824538595,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-blue",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b1o9zvKbl",
 			"typeName": "shape"
 		},
 		{
@@ -6635,6 +6756,48 @@
 			},
 			"parentId": "page:page",
 			"index": "b1h0Kr2cV",
+			"typeName": "shape"
+		},
+		{
+			"x": 541.4853442150051,
+			"y": 9448.095374668566,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2aN2z3K-lipERDPE03ypN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 350.5309411566207,
+				"font": "draw",
+				"textAlign": "middle",
+				"autoSize": false,
+				"scale": 1.0385566707219829,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "S3 Storage classe"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b1njqQS6V",
 			"typeName": "shape"
 		},
 		{
