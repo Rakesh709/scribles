@@ -2281,9 +2281,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -324.1276608964058,
-			"y": -11384.078956636717,
-			"z": 0.9023095543876332,
+			"x": 128.9087573078823,
+			"y": -11315.11080515889,
+			"z": 0.7284506866145602,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -4148,12 +4148,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:UPZmeN3y4HF5I3p9JX2pD",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:Yo1lHjPRJpvgUbWoe4apJ"
+				"shape:UPZmeN3y4HF5I3p9JX2pD"
 			],
-			"hoveredShapeId": "shape:Yo1lHjPRJpvgUbWoe4apJ",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -4719,6 +4719,48 @@
 			},
 			"parentId": "page:page",
 			"index": "aaFdJJ7V",
+			"typeName": "shape"
+		},
+		{
+			"x": 789.0211716476592,
+			"y": 11792.197264747769,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UPZmeN3y4HF5I3p9JX2pD",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 54.427085876464844,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "AWS"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b2WXxVjRV",
 			"typeName": "shape"
 		},
 		{
