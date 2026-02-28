@@ -2599,9 +2599,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -578.6367727829967,
-			"y": -14177.741627562096,
-			"z": 1.0933010926548645,
+			"x": 11490.541173327283,
+			"y": -1580.799543747969,
+			"z": 0.05,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -4967,11 +4967,9 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:ZCvQ9KlNbTiyBJPIcLaYG",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:ZCvQ9KlNbTiyBJPIcLaYG"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -12229,12 +12227,15 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:geo": "rectangle"
+				"tldraw:geo": "rectangle",
+				"tldraw:color": "black",
+				"tldraw:size": "s",
+				"tldraw:dash": "draw"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "cross",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -12270,7 +12271,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:page",
+			"currentPageId": "page:FL0d2LNbOEcuirp3IQpDo",
 			"typeName": "instance"
 		},
 		{
