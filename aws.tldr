@@ -8590,7 +8590,7 @@
 			"selectedShapeIds": [
 				"shape:Xjz2JS1ejoK8oHfm_Vf3j"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:Xjz2JS1ejoK8oHfm_Vf3j",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -11044,9 +11044,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 319.9768779165652,
-			"y": 202.19333129756208,
-			"z": 0.7353947368421053,
+			"x": 228.4658661477123,
+			"y": 265.5383346757329,
+			"z": 0.6611842105263158,
 			"meta": {},
 			"id": "camera:page:kkmgFkH-8MzcTpbn3_C5U",
 			"typeName": "camera"
@@ -12226,16 +12226,11 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:color": "black",
-				"tldraw:size": "s",
-				"tldraw:dash": "draw"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -12245,7 +12240,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1232,
+				"w": 932,
 				"h": 566
 			},
 			"insets": [
@@ -12271,7 +12266,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:FL0d2LNbOEcuirp3IQpDo",
+			"currentPageId": "page:kkmgFkH-8MzcTpbn3_C5U",
 			"typeName": "instance"
 		},
 		{
