@@ -222,9 +222,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -309.056354869496,
-			"y": -748.1969798694936,
-			"z": 1.1,
+			"x": -243.22534834966936,
+			"y": -1067.806580440869,
+			"z": 1.0098370066335474,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -513,10 +513,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:dWPJc6hkAo_m8nmmuXdQ7",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:lUse2BzLIGbfYrRtEzDFS"
+				"shape:dWPJc6hkAo_m8nmmuXdQ7"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -703,8 +703,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 698.3594665527344,
-			"y": 283.50001017252623,
+			"x": 701.9243982955322,
+			"y": 273.9935345911553,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1115,7 +1115,7 @@
 			"props": {
 				"color": "black",
 				"size": "s",
-				"w": 99.73958587646484,
+				"w": 118.40625,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -1134,7 +1134,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "hypervisor"
+									"text": "hyperviTtsor"
 								}
 							]
 						}
@@ -1147,7 +1147,7 @@
 		},
 		{
 			"x": 838.147263960405,
-			"y": 973.3238731731058,
+			"y": 983.4244949788529,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1230,6 +1230,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 604.33975059107,
+			"y": 1394.2382133382177,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dWPJc6hkAo_m8nmmuXdQ7",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 583.2708740234375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "window -> virtualization -> enable hypervison"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aaKD1qtV",
+			"typeName": "shape"
+		},
+		{
 			"x": 492.3594055175782,
 			"y": -64.69790776570636,
 			"rotation": 0,
@@ -1289,14 +1331,12 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:dash": "draw",
-				"tldraw:size": "s"
+				"tldraw:color": "light-blue"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -1673,8 +1713,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 830.8745366876777,
-			"y": 944.839070927012,
+			"x": 843.351852184012,
+			"y": 946.6215367984111,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
